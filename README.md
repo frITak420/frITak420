@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @frITak420
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning Dart(Flutter)
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in programming, AI and data analysis    
+- 🌱 I’m currently learning React
 - 📫 How to reach me fr.pracovni@proton.me
 
 <!---
